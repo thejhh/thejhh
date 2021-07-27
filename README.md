@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 Most of my projects are under [the Sendanor company](https://github.com/sendanor).
 
-I’m currently working on [sendanor/ui](https://github.com/sendanor/ui), [sendanor/discord](https://github.com/sendanor/discord), and [sendanor/typescript](https://github.com/sendanor/typescript).
+I’m currently working on few projects -- which are yet to be published. These are web based dashboard apps [Chat gateway](https://viesti.app) and [Form builder](https://lomake.app).
+
+For these projects, there's already following repositories: [sendanor/ui](https://github.com/sendanor/ui), [sendanor/discord](https://github.com/sendanor/discord), and [sendanor/typescript](https://github.com/sendanor/typescript).
+
+For my own projects, I can provide commercial support for 8 000 €/month + VAT.
+
+For other projects, I might be open to work through my company for 12 000 €/month or 80 €/hour + VAT.  
