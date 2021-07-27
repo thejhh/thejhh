@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Most of my projects are under [the Sendanor company](https://github.com/sendanor).
+
+I’m currently working on [sendanor/ui](https://github.com/sendanor/ui), [sendanor/discord](https://github.com/sendanor/discord), and [sendanor/typescript](https://github.com/sendanor/typescript).
