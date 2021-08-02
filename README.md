@@ -23,7 +23,11 @@ I’m currently working on following projects:
  * [Form builder](https://lomake.app) -- Web based ReactJS and iframe form builder
  * [Live streaming software](https://audioantza.com/) (the software which hosts that site)
 
-For these projects, there's already following repositories: [sendanor/ui](https://github.com/sendanor/ui), [sendanor/discord](https://github.com/sendanor/discord), and [sendanor/typescript](https://github.com/sendanor/typescript).
+For these projects, there's already following repositories available:
+ 
+ * [sendanor/ui](https://github.com/sendanor/ui), 
+ * [sendanor/discord](https://github.com/sendanor/discord), and 
+ * [sendanor/typescript](https://github.com/sendanor/typescript).
 
 For my own projects, I can provide commercial support for 8 000 €/month + VAT.
 
