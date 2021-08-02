@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Most of my projects are under [the Sendanor company](https://github.com/sendanor).
 
-I’m currently working on few projects -- which are yet to be published. These are web based dashboard apps [Chat gateway](https://viesti.app) and [Form builder](https://lomake.app).
+I’m currently working on some projects -- which are yet to be published. These are web based dashboard apps [Chat gateway](https://viesti.app) and [Form builder](https://lomake.app) and [Live streaming service (the software hosting this site)](https://audioantza.com/).
 
 For these projects, there's already following repositories: [sendanor/ui](https://github.com/sendanor/ui), [sendanor/discord](https://github.com/sendanor/discord), and [sendanor/typescript](https://github.com/sendanor/typescript).
 
