@@ -23,9 +23,9 @@ I’m currently working on following projects:
 
 For these projects, there's already following repositories available:
  
- * [sendanor/ui](https://github.com/sendanor/ui), 
- * [sendanor/discord](https://github.com/sendanor/discord), and 
- * [sendanor/typescript](https://github.com/sendanor/typescript).
+ * [sendanor/ui](https://github.com/sendanor/ui)
+ * [sendanor/discord](https://github.com/sendanor/discord)
+ * [sendanor/typescript](https://github.com/sendanor/typescript)
 
 For my own projects, I can provide commercial support for 8 000 €/month + VAT.
 
