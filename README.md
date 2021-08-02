@@ -29,4 +29,4 @@ For these projects, there's already following repositories available:
 
 For my own projects, I can provide commercial support for 8 000 €/month + VAT.
 
-For other projects, I might be open to work through my company for 12 000 €/month or 80 €/hour + VAT.  
+For other projects, I might be open to provide support through my company for 12 000 €/month or 80 €/hour + VAT.  
