@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Most of my projects are under [the Sendanor company](https://github.com/sendanor).
-
 I’m currently working on following projects:
 
  * [Chat gateway](https://viesti.app) -- Gateway between our webchat, Discord and IRC. Later also Matrix.
