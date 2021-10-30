@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Some of my open source projects:
  
  * [sendanor/ui](https://github.com/sendanor/ui)
+ * [sendanor/matrix](https://github.com/sendanor/matrix)
  * [sendanor/discord](https://github.com/sendanor/discord)
  * [sendanor/typescript](https://github.com/sendanor/typescript)
 
