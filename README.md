@@ -22,4 +22,4 @@ Some of my open source projects:
  * [sendanor/discord](https://github.com/sendanor/discord)
  * [sendanor/typescript](https://github.com/sendanor/typescript)
 
-I can provide commercial support 99 €/hour – and more than 80 hours/month for 75 €/hour + TAX.
+For commercial support checkout [our company profile](https://github.com/sendanor).
