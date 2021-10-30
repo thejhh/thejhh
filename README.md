@@ -22,4 +22,4 @@ Some of my open source projects:
  * [sendanor/discord](https://github.com/sendanor/discord)
  * [sendanor/typescript](https://github.com/sendanor/typescript)
 
-For commercial support checkout [our company profile](https://github.com/sendanor).
+For commercial support checkout [my company profile](https://github.com/sendanor).
