@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some of my open source projects:
+Follow up on my projects at:
  
- * [sendanor/ui](https://github.com/sendanor/ui)
- * [sendanor/matrix](https://github.com/sendanor/matrix)
- * [sendanor/discord](https://github.com/sendanor/discord)
- * [sendanor/typescript](https://github.com/sendanor/typescript)
+ * [hangovergames](https://github.com/hangovergames) for game projects
+ * [hyperifyio](https://github.com/hyperifyio) for open source projects
 
-For commercial support checkout [my company profile](https://github.com/sendanor).
+For commercial support checkout [my company](https://www.heusalagroup.com).
