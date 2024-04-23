@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I manage following projects:
 
-* https://github.com/thejhh/thejhh/issues/1
+* [Managed by JHH](https://github.com/thejhh/thejhh/issues/1)
 
 Here's Github organizations I commonly work for:
  
