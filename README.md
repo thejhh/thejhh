@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Follow up on my projects at:
+I manage following projects:
+
+ * [ ] https://github.com/sendanor/project-sendanor.fi/issues/1
+
+Here's Github organizations I commonly work for:
  
- * [hangovergames](https://github.com/hangovergames) for game projects
- * [hyperifyio](https://github.com/hyperifyio) for open source projects
+ * [hyperifyio](https://github.com/hyperifyio)
+ * [hangovergames](https://github.com/hangovergames)
+ * [heusalagroup](https://github.com/heusalagroup)
+ * [sendanor](https://github.com/sendanor)
 
 For commercial support checkout [my company](https://www.heusalagroup.com).
